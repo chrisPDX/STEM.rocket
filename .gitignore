@@ -1,0 +1,10 @@
+*.[oa]
+*.lst
+*.log
+*.hex
+*.map
+*.elf
+*.deps/
+codegentemp
+Generated_Source
+
